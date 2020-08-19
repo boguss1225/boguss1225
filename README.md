@@ -1,4 +1,4 @@
-### Hi there, I'm HEEMOON - aka [Boguss][website]! 👋
+### Hi there, I'm HEEMOON - A.K.A. Troubleshooter [Boguss][website]! 👋
 
 ## I'm an all-rounder Developer from front-end to back-end.
 - 🔭 I’m currently working on AI projects(TensorFlow), researches about dementia.
