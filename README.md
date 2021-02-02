@@ -8,7 +8,8 @@
 - 💬 Ask me about AI vision project & general programming.
 - 📫 How to reach me: email is preferred
 - ⚡ Fun fact: I believe programming is only exclusively for geniuses with talent and the genius I believe is nothing but a great capacity for patience.
-- 🥅 2020 Goals: Finishing some of my current projects & Learning new languages & Regular exercise!
+- 🥅 2020 Goals: ~~Finishing some of my current projects & Learning new languages & Regular exercise!~~
+- 🥅 2021 Goals: Publish journals & Create Multiple Projects & Diet!
 
 ### Connect with me:
 
