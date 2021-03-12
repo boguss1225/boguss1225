@@ -52,4 +52,4 @@
 [twitter]: https://twitter.com/NotReadyYet
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yinzixie&layout=compact&bg_color=transparent&title_color=abd200&text_color=3fb950&hide_border=1&langs_count=10)](https://github.com/boguss1225.)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boguss1225&layout=compact&bg_color=transparent&title_color=abd200&text_color=3fb950&hide_border=1&langs_count=10)](https://github.com/boguss1225)
