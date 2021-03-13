@@ -1,0 +1,36 @@
+**** Local to myGIT ****
+1. open 'git bash' and 
+   cd 'to_the_target_path'
+   (git init)
+2. connect to myGIT repository
+   git remote add origin https://github.com/boguss1225/Store-POS.git
+   (if origin already exists-> "git remote rm <remote-name>" )
+3. add changed file to the git file
+   git add .
+4. Check the status
+   git status
+5. commit
+   git commit -m 'your message'
+6. upload(push) to myGIT (git push 'remote_name' 'branch_name')
+   git push origin master
+
+**** SYNC my local repository from myGIT ****
+   git pull origin master
+
+**** check current remote list ****
+   git remote -v
+
+**** how to Pull Request(To other's repo) ****
+   Through Github 
+
+**** Sync My forked repo with master (upstream) ****
+git remote add upstream https://github.com/some_user/some_repo
+git fetch upstream // git merge upstream/master (if I want to keep my commits)
+git checkout master
+git reset --hard upstream/master  
+git push origin master --force
+
+
+[출처] https://www.datacamp.com/community/tutorials/git-push-pull
+
+
