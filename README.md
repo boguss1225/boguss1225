@@ -7,6 +7,7 @@
 - 🤔 I’m looking for help with industrial development process experience.
 - 💬 Ask me about AI vision project & general programming.
 - 📫 How to reach me: email is preferred
+- 🎹 Big fan of Piano.
 - ⚡ Fun fact: I believe programming is only exclusively for geniuses with talent and the genius I believe is nothing but a great capacity for patience.
 - 🥅 2020 Goals: ~~Finishing some of my current projects & Learning new languages & Regular exercise!~~
 - 🥅 2021 Goals: Publish journals & Create Multiple Projects & Diet!
@@ -18,7 +19,6 @@
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt=" YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -41,6 +41,18 @@
 <br />
 <br />
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [GitHub Usage-Clone,Commit,Push](https://youtu.be/HpWwA7DsEtk)
+- [How to get good grade in assessment tutorial - KIT711](https://youtu.be/r3CY236P1FU)
+- [mouse brain atlas segmentation research project](https://youtu.be/tAXKT3Nli0s)
+- [Prime number-Toy Project](https://youtu.be/XGQwVBLeLlM)
+- [KIT711 -Tutorial4_practice](https://youtu.be/cfy8Yirpwhg)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCspd6bePIdo4CeYCHlPeVyw)
+
 ---
 <img align="left" alt="boguss1225's Github Stats" src="https://github-readme-stats.vercel.app/api?username=boguss1225&show_icons=true&hide_border=true" />
 
@@ -48,7 +60,7 @@
 [linkedin]: https://www.linkedin.com/in/heemoon-yoon-8627801a9/
 [Facebook]: https://www.facebook.com/hm.yoon.54
 [instagram]: https://instagram.com/boguss0462
-[youtube]: https://youtube.com/NotReadyYet
+[youtube]: https://www.youtube.com/channel/UCspd6bePIdo4CeYCHlPeVyw
 [twitter]: https://twitter.com/NotReadyYet
 
 
