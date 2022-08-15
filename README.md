@@ -10,7 +10,8 @@
 - 🎹 Big fan of Piano.
 - ⚡ Fun fact: I believe programming is only exclusively for geniuses with talent and the genius I believe is nothing but a great capacity for patience.
 - 🥅 2020 Goals: ~~Finishing some of my current projects & Learning new languages & Regular exercise!~~
-- 🥅 2021 Goals: Publish journals & Create Multiple Projects & Diet!
+- 🥅 2021 Goals: Publish journals & Create Multiple Projects & Diet!~~
+- 🥅 2022 Goals: NLP project + Dementia speech detection
 
 ### Connect with me:
 
