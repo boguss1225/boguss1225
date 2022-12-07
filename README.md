@@ -1,17 +1,18 @@
-### Hi there, I'm HEEMOON - A.K.A. Troubleshooter [Boguss][website]! 👋
+### Hi there, I'm HEEMOON - A.K.A. Troubleshooter [HM][website]! 👋
 
-## I'm an all-rounder Developer from front-end to back-end.
-- 🔭 I’m currently working on AI projects(TensorFlow), researches about dementia, object detection & segmentation.
-- 🌱 I’m currently learning Everything. 
-- 👯 I’m looking to collaborate with other neuroscientists and developers.
-- 🤔 I’m looking for help with industrial development process experience.
-- 💬 Ask me about AI vision project & general programming.
+## I'm an Machine Learning Engineer.
+- 🔭 I’m currently working on AI projects, researches about dementia, object detection & segmentation.
+- 🌱 I’m currently learning custom CNNs. 
+- 👯 I’m looking to collaborate with other domain expets and front-end programmers.
+- 🤔 I’m looking for help with industrial experience.
+- 💬 Ask me about AI vision project & fine tuning model.
 - 📫 How to reach me: email is preferred
-- 🎹 Big fan of Piano.
-- ⚡ Fun fact: I believe programming is only exclusively for geniuses with talent and the genius I believe is nothing but a great capacity for patience.
+- 🎹 Big fan of Piano, Lo-fi.
+- ⚡ Fun fact: I believe programming is exclusively for geniuses with talent and the genius I believe is nothing but a great capacity for patience.
 - 🥅 2020 Goals: ~~Finishing some of my current projects & Learning new languages & Regular exercise!~~
 - 🥅 2021 Goals: ~~Publish journals & Create Multiple Projects & Diet!~~
-- 🥅 2022 Goals: NLP project + Dementia speech detection
+- 🥅 2022 Goals: ~~NLP project + Dementia speech detection~~
+- 🥅 2022 Goals: Start new position in Sydney
 
 ### Connect with me:
 
