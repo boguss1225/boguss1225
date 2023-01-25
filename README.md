@@ -1,6 +1,6 @@
 ### Hi there, I'm HEEMOON - A.K.A. Troubleshooter [HM][website]! 👋
 
-## I'm an Machine Learning Engineer.
+## I'm a Machine Learning Engineer.
 - 🔭 I’m currently working on AI projects, researches about dementia, object detection & segmentation.
 - 🌱 I’m currently fine tunning custom CNNs and producing frameworks. 
 - 👯 I’m looking to collaborate with other domain expets and front-end programmers.
