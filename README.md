@@ -12,7 +12,7 @@
 - 🥅 2020 Goals: ~~Finishing some of my current projects & Learning new languages & Regular exercise!~~
 - 🥅 2021 Goals: ~~Publish journals & Create Multiple Projects & Diet!~~
 - 🥅 2022 Goals: ~~NLP project + Dementia speech detection~~
-- 🥅 2023 Goals: Start new position in mainland
+- 🥅 2023 Goals: Start new position in mainland, 100 days commit in row challange
 
 ### Connect with me:
 
